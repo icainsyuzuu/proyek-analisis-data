@@ -15,9 +15,9 @@ Objectives of the Dashboard:
 This dashboard provides essential insights into both the market dynamics and logistics efficiency, helping businesses prioritize high-potential cities and optimize delivery operations for customer satisfaction.
 
 ## Setup Environment - Terminal
-pipenv install
-pipenv shell
-pip install -r requirements.txt
+- pipenv install
+- pipenv shell
+- pip install -r requirements.txt
 
 ## Run steamlit
 streamlit run analisisData.py
