@@ -18,4 +18,4 @@ streamlit run analisisData.py
 2. Navigasi ke direktori proyek.
 3. Jalankan perintah berikut:
    streamlit run dashboard.py
-4. Akses dashboard di browser pada http://localhost:8888/tree 
+4. Akses dashboard di browser pada (http://localhost:8501/) 
